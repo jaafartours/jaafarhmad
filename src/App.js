@@ -8,7 +8,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import ReactWhatsappButton from "react-whatsapp-button";
 import Infotrip from "./pages/infotrip";
-import ContactForm from "./pages/conta";
+
 function App() {
   return (
     <div >
